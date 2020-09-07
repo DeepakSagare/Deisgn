@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T11:08:07.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="E8ZXvfDMKlkQ7OBzLiS2" version="13.6.4" type="github"><diagram id="UaBOg7NRYQEvOSAlGZFX" name="Page-1">7Ztfc5s4EMA/DY/xIAQYP9okbW/a3mUunfbeMrKRQT1AVGDH7qc/CYRt/vggjImJ7cwkhpW0oP1pF7TrKNAONh8Ziryv1MG+oqnORoH3iqYBFVr8Q0i2mcSw1EzgMuLITnvBE/mN85FSuiIOjgsdE0r9hERF4YKGIV4kBRlijL4Uuy2pX7xqhFxcETwtkF+V/iBO4mVSy1D38k+YuF5+ZaDKlgDlnaUg9pBDXw5E8EGBNqM0yY6CjY19YbzcLtm4D0dadzfGcJi0GWB/Dj97v9BEXU+97TO151r8/U5qWSN/JScsbzbZ5hZAcZQZdkk2mOuaRZiRACeYcRm/BCeBH/eimZcEPm8B/BD5xA358YLfYtq2s4HKTxwUe0JhehJHaEFC9xuNuAByAQlSMvnnPQlcPjefzPlftEjIGj87hPE7o2zLRS8k5Jrj5xizNWajeO3ysXJymCV4c9RqYMeCL2JM+TSEQjUfMJb45PoFOc6Xg9UgjeYdLoR8HSC5AN2d6j0jfiAxvQKZVkFma+unhy8f7OnfDyqo8ONzTxqwCAsRvuansiEgjiOGzxiOyW80T1UJShElYZJOyJgpxr3QtUponHmtUL2kYSKdGFgnImBoBQKTKgBgqlUCsC8A8GJ8Bs+L/tIDPb3oPlCt0jP1KjyrL3jGDV57eJo6MHrmjV57etAq0quLnG9Kb9xMD4fOVLy18bOQhrjIp95G2Km8wTVa6MACRs2jI5cx7COBrvhWWWMWeYVH8Xg8cB+tBMAoWTamK7bActThq1uTIlBSlCDm4qSiKKW0m3Z3cNaJwflojv0ZWvzrMroKHZv6lKVq4DL9eQdszROh1dUGRT2jnVyZT5rlJ5rejVsT/56x5QHgariVQ2BncI1BuW9yLbbcryL3cxVE8twQbyb8/vN28x2ArQTASUew546koLoxVzTTTyQy3rJEi6zB/LUSWZ8Z33KTOSOKZgv+KIzv+DshWe478CNXfqaK+GtnWFgqeUdxhbtsHz7lHYA+Mk1zHG2qqr5Ql4Qje/btaWTTQBHekOmes/LVuBmyC1bE2YQ63huIhDHSkWratkQB8bdZKx+GgihthFA/tFFJnvZtshswwQgYxgiocAR0rWFiQ8J0nEp3TpeWGCo9EfJ9y2FiSKsJXL3tb0BdZmh4S+vrNvP+awwB+i0EXFQIGBvNMQC+aQzQ30kM+OvPf0bi98oiADRvEeCSIgAsb+jP/xZwOUnqnmqqZonZ+WuqoC41/To31jTuwfXh7FjoSL205PKf1j/wfPr4h6rtgl04j6P/c/SBeLQgfpLV0aLeq9c4dG/1XtAi/f1OHPoNqk4GLAXkc9cMQYsU9w3fzvsmA8OXPxtu+Nrgs0pfVzp7zVc7dbpbGXg+e1xKS3WuDFYUvXHRNwd1q/oePNyME8G1Jg2K+obb4ktsF+WWZXKd64eNS6BvcnUJpksmV46Dnck1Rua+ybX47uE1VX4rMbBr5ffswbQu4zO8bOIVV37BLek7hBTRyXIM5e8lnz3pqx1PIA5pbV1z6RfeYsAlxQDTHFrpV6vLEw9vbV1v6de4iAhwpf5ulTfwbZ/55c1AC3/np/v/y812Cfv/boYP/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-07T13:46:18.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="mRedMibcxGLkqcYFrMbV" version="13.6.4" type="github">
+  <diagram id="UaBOg7NRYQEvOSAlGZFX" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="170" y="120" width="82" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-2" value="C2vSELFCARE01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="152" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="40" y="300" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-5" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="200" y="300" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="380" y="290" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-7" value="" style="endArrow=none;html=1;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="250" as="sourcePoint" />
+            <mxPoint x="220" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-8" value="" style="endArrow=none;html=1;fontSize=18;labelBackgroundColor=#ffffff;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="250" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-9" value="" style="endArrow=none;html=1;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="304" as="sourcePoint" />
+            <mxPoint x="60" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-10" value="" style="endArrow=none;html=1;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="304" as="sourcePoint" />
+            <mxPoint x="220" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-11" value="" style="endArrow=none;html=1;fontSize=18;jumpSize=5;startSize=6;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="294" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-12" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Login.CBTS.Com &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;161.155.103.142&lt;/span&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="10" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-13" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;MyCBTS.CBTS.Com &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;161.155.103.144&lt;/span&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="175" y="380" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-14" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;MyONX.ONX.Com &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;161.155.103.136&lt;/span&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="360" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="660" y="120" width="82" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-17" value="&lt;span style=&quot;font-size: 22px; font-family: calibri, sans-serif;&quot;&gt;HvWebAPI02&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="652" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="530" y="300" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-19" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="690" y="300" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="870" y="290" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-21" value="" style="endArrow=none;html=1;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="250" as="sourcePoint" />
+            <mxPoint x="710" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-22" value="" style="endArrow=none;html=1;fontSize=18;labelBackgroundColor=#ffffff;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="250" as="sourcePoint" />
+            <mxPoint x="890" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-23" value="" style="endArrow=none;html=1;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="304" as="sourcePoint" />
+            <mxPoint x="550" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-24" value="" style="endArrow=none;html=1;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="304" as="sourcePoint" />
+            <mxPoint x="710" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-25" value="" style="endArrow=none;html=1;fontSize=18;jumpSize=5;startSize=6;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="294" as="sourcePoint" />
+            <mxPoint x="890" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-26" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Login.CBTS.Com &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;161.155.103.141&lt;/span&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="500" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-27" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;MyCBTS.CBTS.Com &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;161.155.103.143&lt;/span&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="665" y="380" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKnKhqa90vAhy_oCb2sV-28" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;MyONX.ONX.Com &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;161.155.103.135&lt;/span&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="850" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
