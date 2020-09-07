@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T14:21:59.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="sI3ceDB2cNzYsUwbIxjO" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T14:23:39.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="0bTk4JJ62pxu3Lc_JYOX" version="13.6.4" type="github">
   <diagram id="UaBOg7NRYQEvOSAlGZFX" name="Page-1">
     <mxGraphModel dx="1038" dy="1380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -186,27 +186,27 @@
         </mxCell>
         <mxCell id="252ZYm3yr4P4CK1c5qAn-21" value="" style="endArrow=classic;html=1;labelBackgroundColor=#ffffff;fontSize=22;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="-177" as="sourcePoint" />
-            <mxPoint x="847" y="-178" as="targetPoint" />
+            <mxPoint x="660" y="-210.5" as="sourcePoint" />
+            <mxPoint x="840" y="-211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="252ZYm3yr4P4CK1c5qAn-22" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-353" width="82" height="100" as="geometry" />
+          <mxGeometry x="830" y="-353" width="54.94" height="67" as="geometry" />
         </mxCell>
         <mxCell id="252ZYm3yr4P4CK1c5qAn-23" value="C2VWEBADMIN01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="795" y="-379" width="164" height="26" as="geometry" />
         </mxCell>
         <mxCell id="252ZYm3yr4P4CK1c5qAn-24" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="848" y="-220" width="64" height="80" as="geometry" />
+          <mxGeometry x="838" y="-259" width="56" height="70" as="geometry" />
         </mxCell>
         <mxCell id="252ZYm3yr4P4CK1c5qAn-25" value="" style="endArrow=none;html=1;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="874.5" y="-218" as="sourcePoint" />
-            <mxPoint x="874.5" y="-258" as="targetPoint" />
+            <mxPoint x="862" y="-257" as="sourcePoint" />
+            <mxPoint x="862" y="-287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="252ZYm3yr4P4CK1c5qAn-26" value="&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;CareTool&lt;br&gt;161.155.119.179&lt;/span&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="822" y="-142" width="110" height="74" as="geometry" />
+          <mxGeometry x="808" y="-191.5" width="110" height="74" as="geometry" />
         </mxCell>
         <mxCell id="252ZYm3yr4P4CK1c5qAn-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SchedulerJobCollection.svg;" vertex="1" parent="1">
           <mxGeometry x="91.25" y="-287" width="50" height="43" as="geometry" />
