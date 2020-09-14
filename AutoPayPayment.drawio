@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T11:07:38.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Z6lNO2sa44g5MokgaULf" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T11:17:08.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ol8d6i1dZAQgColpvhd4" version="13.6.10" type="github">
   <diagram id="J9oQ7YEbLdYVICq-9z-E" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -7,17 +7,11 @@
         <mxCell id="SAiguCN7g2tJS7Ev6xJh-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png" parent="1" vertex="1">
           <mxGeometry x="11" y="364.25" width="41" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="SAiguCN7g2tJS7Ev6xJh-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png" parent="1" vertex="1">
-          <mxGeometry x="177" y="320" width="41" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="SAiguCN7g2tJS7Ev6xJh-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_payment_48px-128.png" parent="1" vertex="1">
           <mxGeometry x="99" y="358" width="50.5" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="SAiguCN7g2tJS7Ev6xJh-14" value="ACH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="11" y="409" width="36" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="SAiguCN7g2tJS7Ev6xJh-15" value="ACH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="177" y="361" width="36" height="18" as="geometry" />
         </mxCell>
         <mxCell id="SAiguCN7g2tJS7Ev6xJh-16" value="CC/DC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="98.5" y="406.25" width="48" height="18" as="geometry" />
@@ -94,17 +88,11 @@
             <mxPoint x="793" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3agMhINum5lRsY7JjDlr-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="197" y="250" width="98.5" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="3agMhINum5lRsY7JjDlr-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png" parent="1" vertex="1">
-          <mxGeometry x="277" y="320" width="41" height="41" as="geometry" />
+          <mxGeometry x="230.75" y="314" width="41" height="41" as="geometry" />
         </mxCell>
         <mxCell id="3agMhINum5lRsY7JjDlr-3" value="CEFT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="277" y="362.5" width="41" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="3agMhINum5lRsY7JjDlr-4" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="197" y="250" width="98.5" height="65" as="geometry" />
+          <mxGeometry x="229" y="355" width="41" height="18" as="geometry" />
         </mxCell>
         <mxCell id="fqY8OZWQPxEtwslNhvab-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/process-stop-128.png;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="584.25" y="308" width="50" height="50" as="geometry" />
@@ -122,6 +110,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="418" y="305" as="sourcePoint" />
             <mxPoint x="418" y="247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uatY0YCI_nkMENX4CCzZ-1" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250.75" y="308" as="sourcePoint" />
+            <mxPoint x="250.75" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
