@@ -1,1 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T11:02:21.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="1z5eyKNRL6s-pxkOblfO" version="13.6.10" type="github"><diagram id="J9oQ7YEbLdYVICq-9z-E" name="Page-1">7VvbdqM2FP0aP+LFTVweHceZaTrJZMXp6pqnLAVkUAOIynLszNdX4mIDoqnrwTgmyUOAIyHQ3lvS0Tl4ZEzjzRcK0/CG+Cga6aq/GRmXI13XVMPhB2F5zS3AUXNDQLGfmyqGOf6JyjsL6wr7aFnYchMjJGI4rRs9kiTIYzUbpJSs69UWJPJrhhQGSDLMPRjJ1j+xz8Lc6gB1Z/+KcBCWT9bUoiSGZeXCsAyhT9YVkzEbGVNKCMvP4s0URQK8Oi5X/1K6fTGKErbPDfMJDlbTWzvQ2fXcnr1Ym+tQ0YpmXmC0KnpcvC17LSHgL56KUxxnWF2ELI74pcZPXxBlmIM1iXCQcBsjacX6DT6h6I4sMcNElD4RxkjMK0Si4AJ6zwElq8SfkojQ7FnGIvvjVbKHTZZpzqnKLbC8WOAN8ssq/DpkTIhhIrquX3l+oo4xl8MCJz6iY48/Ub/yIYP8IOxLfkQRXDKikCTCCVL4KUXcqlv8n6oqs2+T+cP3q++3Dwo/3s+U+9nk8sfjE0yeFU13xmkSyOCXQPK+o03FVJDxBZEYMfrKq5SlxR3FwDAsc6yD3LTeKc0saoUVkZU2WGg72La9o5+fFAr4P2rQP9VwKjXYdl0O5bRxMi0YA9SC8Z9aCAgJIqTw2RtRDCOFLz68A0pZbDpZ3ccUvsac7EfTSTcdqsB16yIAjiQCoI6BLIOdtXshmJIQJtOvkhZ4D1ldArCg3uN4INqiiRj7vrj9gnKQf8KnrClBaEpwwrJ+gIsRuBRtrRhXS+YciKa7n35N1ZWgNiwZaM05FsxgmDA35zVLOzHOloTzVLR0OT17rF2nnAS2orZafQqnR7zLdayK9/2N8sdcgjub8cX8neGxDjFD8xR6onTNNxd1JjqAS6+DpasyUprqtM22pn4ssGR3XIA1nZwcLM21G2jJS1PvaMnu6vTiYf4etGVY7ujdiUv26DK43oG6AHiHY1H2e3J1/X5yuGzDbMClnx4ueV0d6VYkFtAF4T2tAmb9vSJlgZKvgVyDquamm10hPwvEce6FyF/xO3X1Lve6y3b5e+ZN5xXfoEXtZ9CrRo0WQ2ZF11vWXks9EieGvPZKIKHEn4g4Gb9KSIL2BAX5tbCZDEltxyJ3ubRRvvdm+KUebGvDoXjCnXCjdog7dSdeMxtezJKsqIeKm3ZgSu3YjvV2QwzSADGpoYyVba9/gag9wnBnTZSpNd0HcBhTzYY00+6XKdnnGBZTjSF1MFHS0OyZpz3CV2fNk252NKKaDfXOlOxnDYsp27HHdtO/1Q8jy3acBlluv2TJUaphkWVxt1ki68CR1dJW74OrzSsfEl+SPwAOHFnNhlyzV6LMPQbWklHyvE1Da3WiylxMvAlEJn68iMjaCyFlY5gkhEGRaXnUKzHMCC1YmXGppGJoTlEesER09oLyuKV4ho8p8op6HFfxGp0E4uxG3HK7JFU05LZuZzXtDcX80t6pfIWPSIhhySsWkPORfVNSDu1BpSTPIz1tlPRv0zhy+LfX9DT4TE/3n542TauhAn3ckl5yWwOP7tEy1GCYGWqjERQ3tTa0e02eAtlLGUry1DSbXohZfg51qtQpcD/kHMdgEpBsSlMi/EShQDKf2VJKPLRcijUw3U5r3NPK3LDKi6rZ37ak6qB1oBS7kdszWpJVb+14OteJNfQwv+02EisHh08aDfFRX2+ou12eAYOb8LfbVQyi++UP+/qvy4gq+3xtO9A9hfQBwd4bCqsDv6GVjc/txKm2E/oJv3ZtlULLpxGzq4ezd2oknNsd9haku3BqWpHeI9r/OQX2NgUO0cM8jykQmA2fRpNjnr1OgdoeXuSnFo6iBctU35kWPrCjCqw6GfsnI442S7f8LmsIAS5ggkbIpe0HL8cKcLUjPVBHUJphWoDuyA3kl7sfteYb591Pg43ZPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-14T11:18:29.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="puZCQgjPZWDVdQ54pohw" version="13.6.10" type="github">
+  <diagram id="J9oQ7YEbLdYVICq-9z-E" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png" parent="1" vertex="1">
+          <mxGeometry x="11" y="364.25" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_payment_48px-128.png" parent="1" vertex="1">
+          <mxGeometry x="99" y="358" width="50.5" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-14" value="ACH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="11" y="409" width="36" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-16" value="CC/DC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="98.5" y="406.25" width="48" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-20" value="CRM-US" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="25" y="205" width="108.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-21" value="CRM-CA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="197" y="208" width="108.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-22" value="CBTS-US" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="205" width="108.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-23" value="CBTS-CA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="205" width="108.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-24" value="CBTS-UK" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="734" y="202" width="108.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-26" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Schedule Payment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="303" y="32" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-30" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81" y="148" as="sourcePoint" />
+            <mxPoint x="786" y="148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-31" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417" y="205" as="sourcePoint" />
+            <mxPoint x="417" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-32" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81" y="205" as="sourcePoint" />
+            <mxPoint x="81" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-33" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247" y="205" as="sourcePoint" />
+            <mxPoint x="247" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-34" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="787.75" y="202" as="sourcePoint" />
+            <mxPoint x="788" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-35" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="608.75" y="205" as="sourcePoint" />
+            <mxPoint x="608.75" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-36" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417" y="152" as="sourcePoint" />
+            <mxPoint x="417" y="94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-45" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="27.5" y="247" width="98.5" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-47" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="367.75" y="250" width="98.5" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png" parent="1" vertex="1">
+          <mxGeometry x="350" y="368" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_payment_48px-128.png" parent="1" vertex="1">
+          <mxGeometry x="446" y="362.5" width="49.5" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-54" value="ACH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="412.5" width="36" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-55" value="CC/DC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="447.5" y="412" width="48" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/process-stop-128.png;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="769" y="305" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-60" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="793" y="302" as="sourcePoint" />
+            <mxPoint x="793" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3agMhINum5lRsY7JjDlr-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png" parent="1" vertex="1">
+          <mxGeometry x="230.75" y="312" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="3agMhINum5lRsY7JjDlr-3" value="CEFT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="230.75" y="355" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3agMhINum5lRsY7JjDlr-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png" parent="1" vertex="1">
+          <mxGeometry x="543" y="317" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="3agMhINum5lRsY7JjDlr-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png" parent="1" vertex="1">
+          <mxGeometry x="640" y="317" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="3agMhINum5lRsY7JjDlr-11" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="560" y="247" width="98.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="3agMhINum5lRsY7JjDlr-12" value="ACH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="545.5" y="358" width="36" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3agMhINum5lRsY7JjDlr-13" value="CEFT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="358" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="DEjnjeISw7vLiM5D_dcb-1" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250.75" y="308.5" as="sourcePoint" />
+            <mxPoint x="250.75" y="250.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
