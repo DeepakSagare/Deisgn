@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T12:35:10.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="BxOulMqIHUeVLzdZxa38" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T08:24:16.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="T6_G0_mcrM326r9F5iad" version="13.6.10" type="github">
   <diagram id="J9oQ7YEbLdYVICq-9z-E" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="SAiguCN7g2tJS7Ev6xJh-24" value="CBTS-UK" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="734" y="202" width="108.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="SAiguCN7g2tJS7Ev6xJh-26" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Schedule Payment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SAiguCN7g2tJS7Ev6xJh-26" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Future Payment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="303" y="32" width="228" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAiguCN7g2tJS7Ev6xJh-30" value="" style="endArrow=none;html=1;" parent="1" edge="1">
@@ -94,25 +94,25 @@
         <mxCell id="3agMhINum5lRsY7JjDlr-3" value="CEFT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="230.75" y="355" width="41" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="DEjnjeISw7vLiM5D_dcb-1" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="DEjnjeISw7vLiM5D_dcb-1" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250.75" y="308.5" as="sourcePoint" />
             <mxPoint x="250.75" y="250.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DEjnjeISw7vLiM5D_dcb-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/process-stop-128.png;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="DEjnjeISw7vLiM5D_dcb-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/process-stop-128.png;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="584.25" y="308" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DEjnjeISw7vLiM5D_dcb-3" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="DEjnjeISw7vLiM5D_dcb-3" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="608.25" y="305" as="sourcePoint" />
             <mxPoint x="608.25" y="247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DEjnjeISw7vLiM5D_dcb-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/process-stop-128.png;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="DEjnjeISw7vLiM5D_dcb-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/process-stop-128.png;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="308" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DEjnjeISw7vLiM5D_dcb-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="DEjnjeISw7vLiM5D_dcb-5" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="416" y="305" as="sourcePoint" />
             <mxPoint x="416" y="247" as="targetPoint" />
