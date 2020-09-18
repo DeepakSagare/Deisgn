@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T08:30:47.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="gUCzyIT3y5C9Gb9__VWh" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T08:38:18.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="kbGJJ15WB9sDbhw7ka2H" version="13.6.10" type="github">
   <diagram id="J9oQ7YEbLdYVICq-9z-E" name="Page-1">
     <mxGraphModel dx="1888" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
             <mxPoint x="455.25" y="1263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GR9ysfcV0z_EnGPLHTL4-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;Make Payment&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GR9ysfcV0z_EnGPLHTL4-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;Make Future Payment&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369.5" y="1264" width="176" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GR9ysfcV0z_EnGPLHTL4-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;Allow to make payment through&lt;br/&gt;Credit/Debit Card&amp;nbsp;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
