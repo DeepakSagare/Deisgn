@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T09:31:37.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XrMpgUsvrzqjSWc-a4B8" version="13.7.7" type="github"><diagram id="PWGpXxWR0i6Xsw6y2vkb" name="Page-1">5Vldb5swFP01kbaHToCBkMcm6Ze0rpVSrdreHHDAmsHImKTpr58NJsEY1K5K0215Al/sG/vcc+61nRGYpU9XDObJLY0QGTlW9DQC85Hj2BYIxENatrXFC6zaEDMc1aaWYYGfUTNSWUscoULZahOnlHCc68aQZhkKuWaDjNGN3m1FSaQZchgjw7AIITGtjzjiSW0NPGtvv0Y4Tppfti31JYVNZ2UoEhjRTcsELkZgxijl9Vv6NENEgqfjcjnwdTcxhjL+mgGzO9+5WT2c/bTp4vr7+p66D/Mz5WUNSakWfIW4MNzDbSr9isCVAn7H+iQDcml5n6UJbqVpxWgqHtP5o1og3zaoMVpmEZI/bI/AdJNgjhY5DOXXjeCJsCU8JeqzmgJiHD0Nrs3eISaohmiKONuKLmoAsPx6iGLZGNTNzT5kDlBdkla4fBUbqFgS7zzvgRQvCss/wNUxcDUwQll0LgkqWiGBRYHDPlhQZPDzRVBaq2542l50Y2OIQI7Xuvs+JNQv3FNcMUJh7jr+F09D3QZAd1LQkoVIjWtT82VXE0d3xSGLETdcVcHZLf3t8QIDOiC4kA+6klMJQ0Fr3qL+7XY2fVjs26qHzFFwKeL84bJosugOVdvUhWsfURfuKerC8TpO3q6LXUSPpAvPiNclJhyxJu/rhaIqzrJoowwxyGWbZmSrKQOuCa7FYeGsraH59C/QSwdta/LBdcQfrM9VXpJsaMoxWqP+5CSB9WEq4cqWRb6D6kOBtjWgXacHaLdHo+8G9PgUElOH3f7krWlJd+Q6wVGTUmDE6iuluUw+iSBynMgowDDpyVHzKkdtME+qwAxrSEtNL4hHbOxz+ZozGqKieFlASxj+iivJ3ZWc4AwdciMcaKHxGu5oGcw9orAmpycsNziQsDz3uMJqNhf/d7D00uN3d1SvD1bHUTedvnewzLP7vMwJDuuNl0hbhMtkI/ZqfizfLtZIzUQr/QlNl+UrstYhslNzLu9C1gr9xDND39XTwZKTfQrndF8vCWP7jad0z3X17DTpOBogvEAPblvdctmhGJ6wD8a9Ex6aV7d/M6/B/k3U+/uLl3rGh1WrecPwAxUG2YS2uE4vSHCcSe4JNolzF5hKBQqRk3P1IcVRJIdPGSrwc3W0AnNLtBXOwq83HXlz6avktKivWA+kaG+ik8t3e/YbE5PbdqewHU7RJ3HDoF/rjL0Omq8vYbqjwB4ft4SZ1wvf6D+vCRd0wjMOTE30VLn304R5YJrBalhRLlPMm4OPeJ7f3xj4H/8yX88pQZOv3+FyQDT3/8DUtN7/jwUufgM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-05T09:33:13.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kVvt7WO00VBZSxh1QPC5" version="13.7.7" type="github">
+  <diagram id="PWGpXxWR0i6Xsw6y2vkb" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-1" value="Get Payment dues (10/05) days from BDW" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="73" width="242" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-2" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426.5" y="133" as="sourcePoint" />
+            <mxPoint x="426.5" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-3" value="Get list of accounts from MyCBTS from account table" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="191" width="241" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-4" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426.5" y="251" as="sourcePoint" />
+            <mxPoint x="426.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-5" value="Filter BDW Payment due to generate only account avliable in MyCBTS DB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="313" y="309" width="241" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-6" value="Get Past 10 days events from MyCBTS DB&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="311" y="429" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="369" as="sourcePoint" />
+            <mxPoint x="425" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-8" value="Loop through each BDW Payment Due with past 10 days events in MyCBTS&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="308" y="550" width="234" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="489" as="sourcePoint" />
+            <mxPoint x="425" y="548" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-10" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="421" y="610" as="sourcePoint" />
+            <mxPoint x="421" y="669" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-11" value="Duplicate &lt;br&gt;Event" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="373" y="669" width="95" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-12" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="713" as="sourcePoint" />
+            <mxPoint x="544" y="593" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="637" y="713" />
+              <mxPoint x="637" y="593" />
+              <mxPoint x="612" y="593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="598" y="640" width="29" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-14" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="758" as="sourcePoint" />
+            <mxPoint x="420" y="817" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="778" width="25" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CO62IfT-Z1oSHVvPo4TD-18" value="Call submit event API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="308" y="812" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
